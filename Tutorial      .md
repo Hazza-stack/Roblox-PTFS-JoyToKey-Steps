@@ -9,7 +9,7 @@ Tutorial:
 3. run the installer
 4. once your in press [2] Joystick and double click on the first tab which should say: stick1:⬅️
 5. press mouse advanced, then change the option to spring mode (go to target and move within range)
-6. in the center position option make x = 50.00 and y = 54.00. Change the two bars on the right having the horizontal panel to -50 and the vertical one 0
+6. in the center position option make x = 50.00 and y = 54.00. Change the two bars on the right having the horizontal panel to 50 and the vertical one 0
 7. it should look the exact same for the stick1:➡️
 8. the spring mode should be set for all of the following options
 9. now in the stick1:⬆️ the center position should be the same but the two bars on the right should have the vertical one on 54 and the horizontal one at 0
